@@ -9,3 +9,5 @@ The workbook contains two sheets:
 - `global_freelancers(CLEANED)` → cleaned and analysis-ready dataset
 
 All transformations were performed without removing any records.
+
+# 🧹 Data Cleaning & Transformations
