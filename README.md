@@ -10,4 +10,13 @@ The workbook contains two sheets:
 
 All transformations were performed without removing any records.
 
-# 🧹 Data Cleaning & Transformations
+## 🧹 Data Cleaning & Transformations
+### 1️⃣ Name Standardization 
+**What was done** 
+* Split the original name column into:
+  * first_name
+  * last_name
+  **Why**
+  * Improves filtering, sorting, and individual-level analysis.
+  * Removes ambiguity from titles and inconsistent naming formats.
+  ---
