@@ -29,7 +29,7 @@ All transformations were performed without removing any records.
   * Standardized to:
     * `Male`
     * `Female`
-    * 
+     
 **Impact**
  * Prevents duplicate categories during aggregation and visualization.
 
@@ -42,7 +42,7 @@ All transformations were performed without removing any records.
   * Converted to clear categorical values:
     * `Yes`
     * `No`
-    * 
+      
 **Impact**
 * Improves readability and supports direct filtering and grouping.
 
